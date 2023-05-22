@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Report Bug
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
@@ -27,8 +27,6 @@ assignees: ''
 
 ## Environment
 <!--- Specify relevant details about your development environment -->
-- Next.js version:
-- TypeScript version:
 - Operating System:
 - Node version:
 - Yarn/npm/pnpm and version:
